@@ -22,15 +22,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
--> added background color
--> changed the font, size and style of the text included in the app
+- List anything else that you can get done to improve the app functionality!
+* [X] added background color
+* [X]  changed the font, size and style of the text included in the app
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/GHaz3qo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
